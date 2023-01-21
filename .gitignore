@@ -1,0 +1,4 @@
+.terraform/
+.terraform.lock.tf
+scripts/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/1.10.0/darwin_amd64/terraform-provider-kubernetes_v1.10.0_x4
+scripts/.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.89.0/darwin_amd64/terraform-provider-azurerm_v2.89.0_x5 
